@@ -1,9 +1,9 @@
-function HomeScreen() {
+function Great_Hall() {
     return (
         <View
             style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
         >
-            <Text>Home Screen</Text>
+            <Text>Great_Hall Screen</Text>
         </View>
     );
 }

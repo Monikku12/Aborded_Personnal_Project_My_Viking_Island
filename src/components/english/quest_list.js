@@ -1,9 +1,9 @@
-function HomeScreen() {
+function QuestList() {
     return (
         <View
             style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
         >
-            <Text>Home Screen</Text>
+            <Text>QuestList Screen</Text>
         </View>
     );
 }

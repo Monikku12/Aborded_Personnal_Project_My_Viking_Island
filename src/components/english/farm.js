@@ -1,9 +1,9 @@
-function HomeScreen() {
+function Farm() {
     return (
         <View
             style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
         >
-            <Text>Home Screen</Text>
+            <Text>Farm Screen</Text>
         </View>
     );
 }

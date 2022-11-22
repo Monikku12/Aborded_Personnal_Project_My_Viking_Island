@@ -1,9 +1,9 @@
-function HomeScreen() {
+function Blacksmith() {
     return (
         <View
             style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
         >
-            <Text>Home Screen</Text>
+            <Text>Blacksmith Screen</Text>
         </View>
     );
 }

@@ -1,5 +1,5 @@
 ##################################
-### My Dragon Island Adventure ###
+### My Dragons Island Adventure ###
 ##################################
 
 Demo project as a portfolio
