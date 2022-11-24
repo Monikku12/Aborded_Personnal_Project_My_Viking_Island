@@ -1,12 +1,16 @@
 import * as React from "react";
-import { View, Text } from "react-native";
+import { Button, View, Text } from "react-native";
 
-function FarmEn() {
+function FarmEn({ navigation }) {
     return (
         <View
             style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
         >
             <Text>Farm Screen</Text>
+            <Button
+                title="Exit"
+                onPress={() => navigation.navigate("VillageEn")}
+            />
         </View>
     );
 }

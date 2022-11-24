@@ -1,7 +1,7 @@
 import * as React from "react";
-import { View, Text } from "react-native";
+import { Button, View, Text } from "react-native";
 
-function ReferenceBookEn() {
+function ReferenceBookEn({ navigation }) {
     return (
         <View
             style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
