@@ -32,7 +32,7 @@ const Stack = createNativeStackNavigator();
 function App() {
     return (
         <NavigationContainer>
-            <Stack.Navigator>
+            <Stack.Navigator screenOptions={{ headerShown: false }}>
                 <Stack.Screen name="Title" component={Title} />
                 <Stack.Screen name="BagEn" component={BagEn} />
                 <Stack.Screen name="BedroomEn" component={BedroomEn} />
