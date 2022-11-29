@@ -15,9 +15,9 @@ This is a small game I decided to create as a demo for my portfolio. The idea of
 Technology:
 The project was created with React Native Expo. It is intended to be played on iPhone or Android devices.
 
-Librairy Used:
+Libraries Used:
 ・NativeBase (https://nativebase.io/)
 ・React Navigation (https://reactnavigation.org/)
-・
-・
+・react-native-vector-icons (https://github.com/oblador/react-native-vector-icons)
+・react-native-floating-action-bar (https://github.com/idlework/react-native-floating-action-bar)
 ・
